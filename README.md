@@ -16,9 +16,11 @@
 </p>
 
 <p align="center"> 
- <img src="https://img.shields.io/badge/MySql-purple?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySql-purple?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-grey?style=flat-square&logo=mongodb&logoColor=white"/> 
 <img src="https://img.shields.io/badge/AndroidStudio-green?style=flat-square&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-orange?style=flat-square&logo=SpringBoot&logoColor=white"/> 
+ 
 </p>
 
 <h2 align="center">☎Me📞</h2>
