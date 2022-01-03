@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BoHyun-JO&fontSize=90)
 
 <h1 align="center">👋Hi there!</h1>
-<p align="center">I am a student who want to be a back-end developer.</p>
+<p align="center">I am a student who wants to be a back-end developer.</p>
 
 <h2 align="center">⚒Tech Stack🛠</h2>
 <h3 align="center">Techs that I`ve used at least once</h3>
