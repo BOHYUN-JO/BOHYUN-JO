@@ -19,15 +19,26 @@
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/MySql-purple?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-blue?style=flat-square&logo=mariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-grey?style=flat-square&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=oracle&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Data Jpa-Green?style=flat-square&logo=spring&logoColor=white"/>
+ 
+ </p>
+ 
+ 
+<p align="center"> 
 <img src="https://img.shields.io/badge/AndroidStudio-green?style=flat-square&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-orange?style=flat-square&logo=SpringBoot&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Tomcat-red?style=flat-square&logo=apacheTomcat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Gradle-blue?style=flat-square&logo=gradle&logoColor=white"/>  
 </p>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/Git-purple?style=flat-square&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jira-yellow?0style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bitbucket-black?style=flat-square&logo=bitbucket&logoColor=white"/>  
 </p>
 
 <h2 align="center">My Blog</h2>
