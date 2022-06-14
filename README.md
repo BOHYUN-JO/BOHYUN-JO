@@ -29,10 +29,13 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/> 
 </p>
 
-<h2 align="center">My Blog📞</h2>
+<h2 align="center">My Blog</h2>
+
+<p align="center"> Take a look at my tech blog!
+
 
 <p align="center">
-<a href="https://code-lab1.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tvtime&logoColor=white"/></a>
-</p>
+👉👉<a href="https://code-lab1.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tvtime&logoColor=white"/></a>
+👈👈</p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
